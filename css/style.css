@@ -1,0 +1,41 @@
+body{
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    font-family: Comfortaa;
+}
+
+#header{
+    height: 50px;
+    background-color: gold;
+    color: #ffffff;
+    padding: 10px 50px;
+    display: flex;
+}
+
+#logo img{
+    height: 35px;
+}
+
+#logo-text{
+    color: #000000;
+    font-size: 45px;
+}
+
+#nav-bar{
+    margin-left: 50%;
+}
+
+#nav-bar ul li{
+    display: inline;
+    margin: 0 10px 0 10px;
+}
+
+#nav-bar ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+#nav-bar ul li a:hover{
+    color: #000000;
+    text-decoration: underline;
+}
